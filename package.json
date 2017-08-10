@@ -1,0 +1,30 @@
+{
+  "name": "login_daily",
+  "version": "1.0.0",
+  "description": "create a simple site with a log in page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-madia/login_daily.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-madia/login_daily/issues"
+  },
+  "homepage": "https://github.com/chris-madia/login_daily#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "express-sessions": "^1.0.6",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.5",
+    "sessions": "0.0.2-7",
+    "validator": "^8.0.0"
+  }
+}
